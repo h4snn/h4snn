@@ -86,10 +86,3 @@ Eğitici ve etkileşimli bir deneyim sunarak geçmişi dijital dünyada yaşatı
 
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=h4snn.h4snn" alt="visitors" />
-</div>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
-</p>
