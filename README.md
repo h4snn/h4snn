@@ -11,13 +11,13 @@
 ## 👋 Hakkımda
 
 <p align="center">
-Merhaba! Ben Hasan, yazılım mühendisliği ve yapay zeka alanlarına tutkulu bir üniversite öğrencisiyim.<br>
-Şu anda kendimi oyun geliştirme, sistem yönetimi ve yenilikçi yazılım çözümleri üzerine geliştiriyorum.
+Merhaba! Ben Hasan. Yazılım, yapay zeka ve sistem mimarilerine tutkuyla bağlı bir geliştiriciyim.<br>
+Özel yazılım çözümleri üretmek, sunucu altyapılarını optimize etmek ve oyun sistemleri tasarlamak üzerine çalışıyorum.
 </p>
 
 <p align="center">
-TÜBİTAK projelerinden Minecraft sunucu yönetimine kadar geniş bir yelpazede projeler üretiyorum.<br>
-Hedefim, kaliteli bir adam olmak.
+Kapsamlı sunucu yönetiminden, ölçeklenebilir projelere ve Ar-Ge çalışmalarına kadar geniş bir yelpazede üretim yapıyorum.<br>
+Temel motivasyonum; modern, yüksek performanslı ve sürdürülebilir sistemler inşa ederek değer yaratmak.
 </p>
 
 ---
