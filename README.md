@@ -33,13 +33,20 @@ Temel motivasyonum; modern, yüksek performanslı ve sürdürülebilir sistemler
 ## 🧊 Profesyonel Minecraft Geliştiriciliği
 
 <p align="center">
-Minecraft ekosisteminde yüksek performanslı ve tamamen özelleştirilmiş sunucu deneyimleri inşa ediyorum.<br>
-Spigot ve Paper API kullanarak sunuculara özel, sıfırdan Java eklentileri (plugin) geliştiriyorum.
+  <img src="https://img.shields.io/badge/Java_Plugin_Dev-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Dev" />
+  <img src="https://img.shields.io/badge/Spigot_%26_Paper_API-ECECEC?style=for-the-badge&logo=json&logoColor=black" alt="API" />
+  <img src="https://img.shields.io/badge/KitPvP_Mechanics-FF3333?style=for-the-badge&logo=codeforces&logoColor=white" alt="KitPvP" />
+  <img src="https://img.shields.io/badge/MSPT_Optimization-238636?style=for-the-badge&logo=speedtest&logoColor=white" alt="Optimization" />
 </p>
 
 <p align="center">
-Özellikle KitPvP sunucu altyapıları için yüksek denge ve akıcı hareket mekanikleri barındıran özel yetenek eklentileri (ability plugins) tasarlıyorum.<br>
-Büyük oyuncu kitlelerini sorunsuz kaldırabilmesi adına altyapıları optimize ediyor, MSPT (Milisaniye başına tick) gecikmelerini en aza indirerek kesintisiz bir oyun deneyimi sağlıyorum.
+Minecraft ekosisteminde yüksek performanslı ve tamamen özelleştirilmiş sunucu deneyimleri inşa ediyorum.<br>
+<b>Spigot</b> ve <b>Paper API</b> kullanarak sunuculara özel, sıfırdan Java eklentileri (plugin) geliştiriyorum.
+</p>
+
+<p align="center">
+Özellikle <b>KitPvP</b> sunucu altyapıları için yüksek denge ve akıcı hareket mekanikleri barındıran<br>özel yetenek eklentileri (ability plugins) tasarlıyorum.<br>
+Büyük oyuncu kitlelerini sorunsuz kaldırabilmesi adına altyapıları optimize ediyor, <b>MSPT</b> (Milisaniye başına tick)<br>gecikmelerini en aza indirerek kesintisiz bir oyun deneyimi sağlıyorum.
 </p>
 
 ---
