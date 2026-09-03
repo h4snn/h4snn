@@ -30,6 +30,20 @@ Temel motivasyonum; modern, yüksek performanslı ve sürdürülebilir sistemler
 
 ---
 
+## 🧊 Profesyonel Minecraft Geliştiriciliği
+
+<p align="center">
+Minecraft ekosisteminde yüksek performanslı ve tamamen özelleştirilmiş sunucu deneyimleri inşa ediyorum.<br>
+Spigot ve Paper API kullanarak sunuculara özel, sıfırdan Java eklentileri (plugin) geliştiriyorum.
+</p>
+
+<p align="center">
+Özellikle KitPvP sunucu altyapıları için yüksek denge ve akıcı hareket mekanikleri barındıran özel yetenek eklentileri (ability plugins) tasarlıyorum.<br>
+Büyük oyuncu kitlelerini sorunsuz kaldırabilmesi adına altyapıları optimize ediyor, MSPT (Milisaniye başına tick) gecikmelerini en aza indirerek kesintisiz bir oyun deneyimi sağlıyorum.
+</p>
+
+---
+
 ## 🚀 Projeler
 
 ### ⚔️ [BladeNW](https://bladenw.com)
@@ -78,11 +92,7 @@ Eğitici ve etkileşimli bir deneyim sunarak geçmişi dijital dünyada yaşatı
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4snn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
 ---
-
-
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=h4snn.h4snn" alt="visitors" />
